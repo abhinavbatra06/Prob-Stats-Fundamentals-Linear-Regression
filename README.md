@@ -1,4 +1,4 @@
-# Prob-Stats-Fundamentals-Height-Weight
+# Prob-Stats-Fundamentals-Linear-Regression
 
 Welcome to **Prob-Stats-Fundamentals-Height-Weight**! This repository is part of my fundamentals series, where I explore core concepts in **probability**, **statistics**, and **data analysis** through practical examples. This project focuses on **simple linear regression** to estimate weight as a function of height using the ANSUR II dataset.
 
