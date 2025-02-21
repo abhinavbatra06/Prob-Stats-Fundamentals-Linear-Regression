@@ -43,11 +43,4 @@ The table in `ANSUR II MALE Public.csv` reports physical measurements of members
   \]
 - Add this line to the scatterplot (in a different color) and compare it with the initial OLS line.
 
----
-
-## Repository Structure
-- **/data**: Contains the dataset `ANSUR II MALE Public.csv`.
-- **/notebooks**: Jupyter notebooks for analysis and visualizations.
-- **/scripts**: Python scripts for computations and regression.
-- **/results**: Outputs, plots, and results.
 
